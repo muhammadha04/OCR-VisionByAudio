@@ -10,15 +10,3 @@
 ## Using it
 
 If you have your computer and Companion Device (Neon or Pupil Invisible) connected to the same network, it will be automatically linked and start streaming the scene camera with the gaze circle overlay.
-
-Press **Space** to send the snap to GPT-4 and you will get the response by voice, or use “ASDF” keys to change its model.
-
-**A** - Describe briefly the object gazed.
-
-**S** - Describe any potential danger, knife, roads, …
-
-**D** - Try to guess the wearers intention, wants to drink water, make a call, be moved somewhere…
-
-**F** - More detailed description of the environment.
-
-Press **ESC** to stop the application.
